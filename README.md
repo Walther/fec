@@ -8,3 +8,4 @@ To run the programs, you can either: `cargo run -- [params]` or `cargo build` an
 
 Ran out of time, sorry.
 
+![screenshot](./screenshot.png)
